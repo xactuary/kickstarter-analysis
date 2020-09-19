@@ -4,6 +4,9 @@
 
 ### Purpose - The purpose of this project is to determine if there is a best time of year in which to launch a kickstarter campaign in order to increase the chance of being successful.  In addition, the project will determine if there is a target funding goal range that is more likely to result in a successful campaign. 
 
+#### Background
+Louise created a kickstarter campaign for her play *Fever*.  The campaign has come close to its goal in a short amount of time.  Now Louise is interested in seeing how other campaigns fared in comparison to launch dates and goals.  Louise has provided a database of kickstarter campaign history to use for the analysis. 
+
 ## Analysis and Challenges 
 
 ### Analysis of Outcomes Based on Launch Date
