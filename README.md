@@ -52,7 +52,7 @@ A difficulty with the original data set is that it provided dates using a Unix t
 
 =(((I2/60)/60)/24)+DATE(1970,1,1)
 
-The link to the analysis file is here:
+The link to the analysis file is [HERE](https://github.com/xactuary/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx)
 
 
 
