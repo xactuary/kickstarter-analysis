@@ -44,7 +44,7 @@ The highest probability of success is in the two lowest buckets which have goals
 
 The dataset provided includes 1,369 Theater campaigns worldwide of which 1,047 are completed campaigns for Plays. For the Launch data analysis, looking at it for the US only gives the same results as using the worldwide theater database.  So the seasonality of using May as the best time to launch a compaign appears to be a worldwide phenomenon.  
 
-The majority of these challenges are for goals with smaller amounts below $20,000.  There is not enough data available to make highly reliable conclusions for campaigns with larger goals. Amongst the campaigns with goals below $20K, the highest probability of success is at the less than $5,000 mark although there is still a 50% chance or better of success for campaigns less than $20K.  It is interesting to note that there are very few canceled campaigns so these are probably not important to the analysis.  
+The majority of these campaigns are for goals with smaller amounts below $20,000.  There is not enough data available to make highly reliable conclusions for campaigns with larger goals. Amongst the campaigns with goals below $20K, the highest probability of success is at the less than $5,000 mark although there is still a 50% chance or better of success for campaigns less than $20K.  It is interesting to note that there are very few canceled campaigns so these are probably not important to the analysis.  
 
 It should be noted that the data includes several large outliers which needs to be considered when choosing an analysis methodology.  By looking at the goals by smaller ranges, the outliers get put in the highest range and do not affect the outcome of the analysis since they can easily be ignored.  
 
