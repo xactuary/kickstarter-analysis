@@ -12,9 +12,13 @@ A database of kickstarter campaign results has been provided that includes 1,369
 
 ![alt text](https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Theater_Outcomes_vs_Launch.png)
 
+
 The blue line shows the monthly volume of successful campaigns.  It is easy to see that there is a clear jump in successful campaigns in May with a continuation of higher
 level of successful campaigns in June.  The level of success then decreases continually to the low point in December. The data highly suggests that Theater campaigns should be launched in May for best probability of success given no other contributing factors.  The data also shows that launching a campaign in December would be the least likely to succeed. 
 
+This is the same graph for US campaigns only which shows the same cluster of successful campaigns happening in May.
+
+![alt text](https://github.com/xactuary/kickstarter-analysis/blob/master/Resources/US%20outcomes%20by%20month.png)
  
 ### Analysis of Outcomes Based on Goals
 The second part of the analysis looks at the success of campaigns based on the initial fundraising goals set.  A set of ranges has been determined for campaign
@@ -22,6 +26,8 @@ goals and the number of campaigns by range have been allocated into whether or n
 campaigns have been removed from this part of the analysis in order to look at completed campaigns only.  In addition, the results are limited to just Plays within the Theater category since Louise's current campaign is for a play.  The following graph illustrates the results of this analysis:
 
 ![alt text](https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Outcomes_vs_Goals.png)
+
+
 
 The blue line shows the percentage of the campaigns that were successful in each of the different goal ranges.  More than 50% of campaigns are successful if the goal range is less than 20,000. At this goal point, the campaigns start to fail more often than not except from 35,000 to 45,000 where again there is about a 60% probability of being successful. However, it is likely that these higher levels are not statistically reliable because there are only 6 successful campaigns in these ranges out of 9 total projects.  The table of results is as follows:
 
