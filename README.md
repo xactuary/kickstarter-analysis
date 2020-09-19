@@ -10,7 +10,7 @@
 
 We have been provided a database of kickstarter campaign results data that includes We have filtered the data to include only kickstarter campaigns for Theater.  We are including all countries but the most campaigns are launched in the US and the UK.  We have data for years from 2009 to 2017.  We have taken all the theater campaigns and bucketed them into months based on their launch date month.  The following graph illustrates the results of this analysis:
 
-!(https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Theater_Outcomes_vs_Launch.png)
 
 1,369 completed campaigns for 
 The blue line shows the monthly volume of successful campaigns.  It is easy to see that there is a clear jump in successful campaigns in May with a continuation of higher
@@ -24,7 +24,7 @@ goals and divided the number of campaigns into whether or not they were successf
 campaigns from this part of the analysis.  In addition, we have limited this grouping to just Plays within the Theater category since Louise's current campaign
 is for a play.  
 
-!(https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Outcomes_vs_Goals.png)
+![alt text](https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Outcomes_vs_Goals.png)
 
 The blue line shows the percentage of the campaigns that were successful in each of the different goal ranges.  More than 50% of campaigns are successful if the goal range is less than $20,000.  
 Then the campaigns start to fail more often than not except from 35,000 to 45,000 where again there is about a 60% probability of being successful.  
