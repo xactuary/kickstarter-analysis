@@ -45,6 +45,10 @@ The majority of these challenges are for goals with smaller amounts below $20,00
 
 It should be noted that the data includes several large outliers which needs to be considered when choosing an analysis methodology.  By looking at the goals by smaller ranges, the outliers get put in the highest range and do not affect the outcome of the analysis since they can easily be ignored.  
 
+A difficulty with the original data set is that it provided dates using a Unix time stamp.  It was necessary to confirm that this was the case and then to use a conversion formula to convert into date.  The formula used is
+
+=(((I2/60)/60)/24)+DATE(1970,1,1)
+
 ## CONCLUSION
 
 In conclusion, the data analysis shows that theater campaigns launched in May have the highest probability of success and those launched in December have the least probability of success given no other over-riding factors.  For outcomes based on goals, the smallest campaigns with goals below $5,000 have the greatest chance for success.  The data is limited because there are only a few data points for goals above $20,000 and there are some very large outliers that skew any results that look at averages or don't separate them out. This data points to the best strategy for Louise is to host a campaign with a goal of less than $5,000 launching in May.  
