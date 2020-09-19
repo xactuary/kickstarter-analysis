@@ -29,12 +29,12 @@ campaigns have been removed from this part of the analysis in order to look at c
 
 
 
-The blue line shows the percentage of the campaigns that were successful in each of the different goal ranges.  More than 50% of campaigns are successful if the goal range is less than 20,000. At this goal point, the campaigns start to fail more often than not except from 35,000 to 45,000 where again there is about a 60% probability of being successful. However, it is likely that these higher levels are not statistically reliable because there are only 6 successful campaigns in these ranges out of 9 total projects.  The table of results is as follows:
+The blue line shows the percentage of the campaigns that were successful in each of the different goal ranges.  More than 50% of campaigns are successful if the goal range is less than 20,000. At this goal point, the campaigns start to fail more often than not except from 35,000 to 45,000 where again there is about a 60% probability of being successful. However, it is likely that these higher levels are not statistically reliable because there are only a small number of data points at the higher goal levels.  The table of results is as follows:
 
 ![alt text](https://github.com/xactuary/kickstarter-analysis/blob/master/Resources/Goal%20Table.png)
 
 
-The highest probability of success is in the two lowest buckets which have goals less than $5,000.  
+The highest probability of success is in the two lowest buckets which have goals less than $5,000. 
 
 ### Challenges and Difficulties Encountered
 
