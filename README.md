@@ -52,6 +52,10 @@ A difficulty with the original data set is that it provided dates using a Unix t
 
 =(((I2/60)/60)/24)+DATE(1970,1,1)
 
+The link to the analysis file is here:
+
+
+
 ## CONCLUSION
 
 In conclusion, the data analysis shows that theater campaigns launched in May have the highest probability of success and those launched in December have the least probability of success given no other over-riding factors.  For outcomes based on goals, the smallest campaigns with goals below $5,000 have the greatest chance for success.  The data is limited because there are only a few data points for goals above $20,000 and there are some very large outliers that skew any results that look at averages or don't separate them out. This data points to the best strategy for Louise is to host a campaign with a goal of less than $5,000 launching in May.  
