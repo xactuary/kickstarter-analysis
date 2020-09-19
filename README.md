@@ -28,26 +28,21 @@ The blue line shows the percentage of the campaigns that were successful in each
 
   The highest probability of success is in the two lowest buckets which have goals less than $5,000.  
 
-### Challenges and Difficulties Encountered - There is not enough data available to make highly reliable conclusions 
-for campaigns with larger goals.  It is interesting to note that there are very few canceed campaigns so these are 
-probably not important to the anlaysis.  
-
-- We have been provided with data for 1,369 Theater campaigns of which 1,047 are completed campaigns for Plays.  
-The majority of these challenges are for smaller amounts below $20,000.  The data includes several large outliers which needs 
-to be considered when choosing an analysis methodology.  We have therefore looked at the data in "buckets" by size of
-goal which helps to weed out the large outliers that may not be relevant to our client's campaign. 
+### Challenges and Difficulties Encountered
 
 
+The dataset provided includes 1,369 Theater campaigns of which 1,047 are completed campaigns for Plays. For the Launch data analysis, looking at it by sub category gives the same results as using the whole theater database.  
 
-## Resultsd
+The majority of these challenges are for goals with smaller amounts below $20,000.  There is not enough data available to make highly reliable conclusions for campaigns with larger goals.  
+It is interesting to note that there are very few canceled campaigns so these are 
+probably not important to the analysis.  
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The data includes several large outliers which needs to be considered when choosing an analysis methodology.  By looking at the goals by smaller ranges, the outliers get put in the highest range and do not affect the outcome of the analysis since they can easily be ignored.  
 
-- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+## CONCLUSION
 
-For the cherry on top, make sure to add screenshots of your Excel plots/graphs/charts to this ReadMe.md file by editing this file in a text editor, using markdown. Here's a markdown cheatsheet:
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+In conclusion, the data analysis shows that theater campaigns launched in May have the highest probability of success and those launched in December have the least probability of success given no other over-riding factors.  For outcomes based on goals, the smallest campaigns with goals below $5,000 have the greatest chance for success.  The data is limited because there are only a few data points for goals above $20,000 and there are some very large outliers that skew any results that look at averages or don't separate them out.  
+
+
