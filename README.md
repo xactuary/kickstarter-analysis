@@ -8,11 +8,10 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-We have been provided a database of kickstarter campaign results data that includes We have filtered the data to include only kickstarter campaigns for Theater.  We are including all countries but the most campaigns are launched in the US and the UK.  We have data for years from 2009 to 2017.  We have taken all the theater campaigns and bucketed them into months based on their launch date month.  The following graph illustrates the results of this analysis:
+A database of kickstarter campaign results has been provided that includes 1,369 completed campaigns for theater projects.  To examine the outcomes based on launch date, the data is filtered to include only kickstarter campaigns for Theater.  All countries are included in this first analysis although most campaigns are launched in the US and the UK.  The data includes campaigns from the years 2009 to 2017.  The theater campaigns are bucketed into months based on their launch date monthand whether or not they were successful, failed or canceled.  The following graph illustrates the results of this analysis:
 
 ![alt text](https://github.com/xactuary/kickstarter-analysis/blob/afaf8b9c7d2a360c568dd2ffb0ae7b7a91bba015/Resources/Theater_Outcomes_vs_Launch.png)
 
-1,369 completed campaigns for 
 The blue line shows the monthly volume of successful campaigns.  It is easy to see that there is a clear jump in successful campaigns in May with a continuation of higher
 level of successful campaigns in June.  The level of success then decreases continually to the low point in December. The data highly suggests that Theater campaigns should be launched in May for best probability of success given no other contributing factors.  The data also shows that launching a campaign in December would be the least likely to succeed. 
 
